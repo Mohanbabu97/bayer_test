@@ -45,4 +45,4 @@ jobs:
       - name: Testing print
         run: echo "Hello, World"
       - name: print goodye
-        run: echo "Test done"
+        run: echo Test done
